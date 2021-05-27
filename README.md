@@ -53,8 +53,8 @@
 <img alt="css3" width="26px" src="https://img.icons8.com/color/240/000000/css3.png">
 </code>](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<code>
-<img alt="sass" width="26px" src="https://img.icons8.com/color/240/000000/sass.png">
-</code>](https://sass-lang.com/)
+<img alt="bootstrap" width="26px" src="https://img.icons8.com/color/48/000000/bootstrap.png">
+</code>](https://getbootstrap.com/)
 [<code>
 <img alt="json" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png">
 </code>](https://www.json.org/json-en.html)
@@ -65,8 +65,17 @@
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
+<img alt="p5js" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FibwbTb_p5-js-logo-png-transparent-png%2F&psig=AOvVaw09wVo-qqWL9PRqL8MZB9-Z&ust=1622226649215000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDtr66_6vACFQAAAAAdAAAAABAD">
+</code>](https://editor.p5js.org/)
+[<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
+[<code>
+<img alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png">
+</code>](https://www.mongodb.com/)
+[<code>
+<img alt="GraphQl" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png">
+</code>](https://graphql.org/)
 [<code>
 <img alt="latex" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/latex/latex.png">
 </code>](https://www.latex-project.org/)
@@ -82,16 +91,12 @@
 [<code>
 <img alt="terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </code>](https://docs.microsoft.com/en-us/windows/terminal/)
-<br />
 [<code>
 <img alt="windows" width="26px" src="https://img.icons8.com/color/240/000000/windows-10.png">
 </code>](https://www.microsoft.com/en-us/windows)
 [<code>
 <img alt="ubuntu" width="26px" src="https://img.icons8.com/color/96/000000/ubuntu--v1.png">
 </code>](https://ubuntu.com/)
-[<code>
-<img alt="macos" width="26px" src="https://img.icons8.com/officel/160/000000/mac-logo.png">
-</code>](https://developer.apple.com/macos/)
 [<code>
 <img alt="linux" width="26px" src="https://img.icons8.com/color/96/000000/linux.png">
 </code>](https://www.kernel.org/)
