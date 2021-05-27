@@ -1,4 +1,4 @@
-<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=100% align="center"/>
+<img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=70% align="center"/>
 
 ### Hi there, I'm Naman Mishra - aka CoderMayhem 👋
 
