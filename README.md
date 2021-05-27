@@ -100,7 +100,7 @@
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](https://medium.com/@sabesan96) :
+These are my latest posts on [Medium](https://medium.com/@naman_m) :
 
 ### Medium
 
@@ -116,7 +116,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/CoderMayhem">
 <img alt="CoderMayhem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderMayhem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/CoderMayhem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMayhem&layout=compact&theme=radical" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMayhem&layout=compact&theme=radical" />
 </a>
 
 ---
