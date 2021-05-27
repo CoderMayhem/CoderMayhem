@@ -26,10 +26,10 @@
 <img alt="visual studio code" width="26px" src="https://img.icons8.com/fluent/240/000000/visual-studio-code-2019.png" />
 </code>](https://code.visualstudio.com/)
 [<code>
-<img alt="android studio" width="26px" src=<img src="https://img.icons8.com/color/48/000000/android-os.png"/> />
+<img alt="android studio" width="26px" src="https://img.icons8.com/color/48/000000/android-os.png" />
 </code>](https://developer.android.com/studio)
 [<code>
-<img alt="flutter" width="26px" src=<img src="https://img.icons8.com/color/48/000000/flutter.png" />
+<img alt="flutter" width="26px" src="https://img.icons8.com/color/48/000000/flutter.png" />
 </code>](https://flutter.dev/)
 [<code>
 <img alt="javascript" width="26px" src="https://img.icons8.com/color/240/000000/javascript.png" />
