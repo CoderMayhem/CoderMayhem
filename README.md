@@ -111,10 +111,12 @@ These are my latest posts on [Medium](https://medium.com/@sabesan96) :
 
 _NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github_
 
+## 📈 My Stats:     <a href="https://github.com/CoderMayhem"> <img src="https://komarev.com/ghpvc/?username=CoderMayhem&label=Profile+Views&color=2e8b57&style=flat" /></a>
+<p align="center">
 <a href="https://github.com/CoderMayhem">
-<img align="center" alt="CoderMayhem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderMayhem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<img alt="CoderMayhem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderMayhem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
 <a href="https://github.com/CoderMayhem">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMayhem&layout=compact&theme=radical" />
+  <img width = "50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMayhem&layout=compact&theme=radical" />
 </a>
 
 ---
