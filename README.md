@@ -65,9 +65,6 @@
 <img alt="Node.js" width="26px" src="https://img.icons8.com/color/240/000000/nodejs.png">
 </code>](https://nodejs.org/en/)
 [<code>
-<img alt="p5js" width="26px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngitem.com%2Fmiddle%2FibwbTb_p5-js-logo-png-transparent-png%2F&psig=AOvVaw09wVo-qqWL9PRqL8MZB9-Z&ust=1622226649215000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCIDtr66_6vACFQAAAAAdAAAAABAD">
-</code>](https://editor.p5js.org/)
-[<code>
 <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png">
 </code>](https://dev.mysql.com/)
 [<code>
