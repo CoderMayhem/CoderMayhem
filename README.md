@@ -102,13 +102,12 @@
 
 ---
 
+<!-- MEDIUM:START -->
 ## 📝 Latest Blog Posts
 
 These are my latest posts on [Medium](https://medium.com/@naman_m) :
 
 ### Medium
-
-<!-- MEDIUM:START -->
 <!-- MEDIUM:END -->
 
 ---
