@@ -109,6 +109,8 @@ These are my latest posts on [Medium](https://medium.com/@naman_m) :
 ### Medium
 
 <!-- MEDIUM:START -->
+- [Getting started with PyTorch : Five basic functions](https://medium.com/@naman_m/getting-started-with-pytorch-five-basic-functions-c0d7fb0860b3?source=rss-8ef2254e5a7------2)
+- [CounselloR SoC Project](https://medium.com/mobile-development-group/counsellor-soc-project-78b91c1018c4?source=rss-8ef2254e5a7------2)
 <!-- MEDIUM:END -->
 
 ---
