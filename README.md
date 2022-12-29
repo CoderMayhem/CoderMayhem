@@ -123,6 +123,7 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <p align="left">
 <a href="https://github.com/CoderMayhem">
 <img alt="CoderMayhem's Github Stats" src="https://github-readme-stats.vercel.app/api?username=CoderMayhem&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=radical" /></a>
+<br></br>  
 <a href="https://github.com/CoderMayhem">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMayhem&layout=compact&theme=radical" />
 </a>
