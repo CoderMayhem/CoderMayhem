@@ -5,7 +5,7 @@
 ## I'm an Electrical Engineering Undergrad and a Flutter & Full Stack Developer!
 
 - 🔭 I’m currently in my final year of college!
-- 🌱 I’m building Strello([link](https://strello.co) and contributing to open source projects
+- 🌱 I’m building Strello([link](https://strello.co)) and contributing to open source projects
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Scale Strello and contribute to 1 new open source organisation every month. We'll see which ones stick!
 - ⚡ Fun fact: I love playing guitar and I am a big big Potterhead. Hit me up, I absolutely love meeting new people
