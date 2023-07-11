@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Naman Mishra - aka CoderMayhem 👋
 
-## I'm an Electrical Enginee, Entrepreneur & Developer!
+## I'm an Electrical Engineer, Entrepreneur & Developer!
 
 - 🔭 IIT Roorkee Alum
 - 🌱 I’m building Strello([link](https://strello.co)) and contributing to open source projects
