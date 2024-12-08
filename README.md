@@ -5,6 +5,7 @@
 ## I'm a Developer & Entrepreneur!
 
 - 🔭 IIT Roorkee Alum
+- 🤖 Building Repello AI
 - ⚡ Fun fact: I love playing guitar and I am a big big Potterhead. Hit me up, I absolutely love meeting new people. (P.S : I'm most active on LinkedIn & Twitter)
 
 ### Connect with me:
