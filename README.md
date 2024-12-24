@@ -47,6 +47,4 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 
 
 [twitter]: https://twitter.com/ThatNaman
-[facebook]: https://www.facebook.com/profile.php?id=100038113573056
-[instagram]: https://www.instagram.com/thatnaman/
 [linkedin]: https://www.linkedin.com/in/naman-mishra-913009195/
