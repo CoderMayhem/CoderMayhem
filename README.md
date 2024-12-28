@@ -44,7 +44,3 @@ _NOTE: Top languages does not indicate my skill level or something like that, it
 <a href="https://github.com/CoderMayhem">
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CoderMayhem&layout=compact&theme=radical" />
 </a>
-
-
-[twitter]: https://twitter.com/ThatNaman
-[linkedin]: https://www.linkedin.com/in/naman-mishra-913009195/
