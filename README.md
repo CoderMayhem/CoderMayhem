@@ -1,6 +1,6 @@
 <img src="assets/ezgif.com-gif-maker.gif" height=50% width=100% align="center"/>
 
-### Hi there, I'm Naman aka CoderMayhem 👋
+### Hey, I'm Naman aka CoderMayhem 👋
 
 ## I'm a Developer & Entrepreneur!
 
