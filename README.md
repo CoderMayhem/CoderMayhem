@@ -22,9 +22,14 @@ These are my latest posts on [Medium](https://medium.com/@naman_m) :
 - [Don't know Web3? Start here](https://dev.to/mayhem/dont-know-web3-start-here-406p)
 - [What are DAOs? Next big thing after NFTs ?](https://medium.com/@namanmishra1900/what-are-daos-next-big-thing-after-nfts-6362d9ed04e1)
 - [Getting started with PyTorch : Five basic functions](https://medium.com/@naman_m/getting-started-with-pytorch-five-basic-functions-c0d7fb0860b3?source=rss-8ef2254e5a7------2)
-- [CounselloR SoC Project](https://medium.com/mobile-development-group/counsellor-soc-project-78b91c1018c4?source=rss-8ef2254e5a7------2)
 <!-- MEDIUM:END -->
 
+
+---
+
+### Website
+
+Check out more of my content on [DailyMayhem](https://dailymayhem.super.site)
 
 ---
 
