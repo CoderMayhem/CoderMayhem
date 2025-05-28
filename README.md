@@ -7,8 +7,6 @@
 - 🔭 IIT Roorkee Alum
 - 🤖 Building [Repello AI](https://repello.ai)
   
-<br />
-
 ---
 
 ## 🕸️ Website
