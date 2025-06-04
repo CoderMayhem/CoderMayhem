@@ -1,6 +1,6 @@
 <img src="assets/ezgif.com-gif-maker.gif" height=50% width=100% align="center"/>
 
-### Hey, I'm Naman aka CoderMayhem 👋
+### Hey, I'm Naman - co-founder and CTO of Repello AI
 
 ## I'm a Developer & Entrepreneur!
 
