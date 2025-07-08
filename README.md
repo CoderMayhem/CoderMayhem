@@ -2,8 +2,6 @@
 
 ### Hey, I'm Naman - co-founder and CTO of Repello AI
 
-## I'm a Developer & Entrepreneur!
-
 - 🔭 IIT Roorkee Alum
 - 🤖 Building [Repello AI](https://repello.ai)
   
