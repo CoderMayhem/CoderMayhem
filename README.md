@@ -7,7 +7,7 @@
   
 ---
 
-## 🕸️ Website
+## 🕸️ Blogs
 
 Check out more of my content on [DailyMayhem](https://dailymayhem.super.site)
 
