@@ -1,6 +1,6 @@
 <img src="assets/ezgif.com-gif-maker.gif" height=100% width=100% align="center"/>
 
-### Hey, I'm Naman - co-founder,CTO of Repello AI
+### Hey, I'm Naman, co-founder,CTO of Repello AI
 
 - 🔭 IIT Roorkee '23
 - 🤖 Building [Repello AI](https://repello.ai) - the enterprise security suite for securing GenAI apps
