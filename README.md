@@ -4,6 +4,7 @@
 
 - 🔭 IIT Roorkee '23
 - 🤖 Building [Repello AI](https://repello.ai) - the enterprise security suite for securing GenAI apps
+- hobby reader and guitarist
   
 ---
 
