@@ -15,7 +15,7 @@ Check out more of my content on [DailyMayhem](https://dailymayhem.super.site)
 
 ## 📝 Latest Blog Posts
 
-These are my latest posts on [Medium](https://medium.com/@naman_m) :
+These are my latest posts on [Medium](https://medium.com/@naman_m) :-
 
 ### Medium
 
