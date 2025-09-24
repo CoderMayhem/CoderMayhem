@@ -3,7 +3,7 @@
 ### Hey, I'm Naman, Co-Founder, CTO of Repello AI
 
 - 🔭 IIT Roorkee '23
-- 🤖 Building [Repello AI](https://repello.ai) - the enterprise security suite for securing GenAI apps
+- 🤖 Building [Repello AI](https://repello.ai) - the enterprise security suite for securing GenAI apps\\
 - hobby reader and guitarist
   
 ---
